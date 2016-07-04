@@ -1,0 +1,52 @@
+#1
+Guilda~
+Você está no salão principal da Guilda dos assassinos, nesta sala é possível alterar atributos e verificar contratos de assassinato. Existe uma carta sobre a mesa, o ar aqui é puro e ameno.~
+3 2 0 0 
+10 1 2 3
+#2
+Templo de Ezio~
+Você esta no templo do mais famoso assassino da historia, Ezio Auditore assassinou milhares de pessoas e mostrou para humanidade como a igreja queria dominar o mundo. Atrás de um conjunto de grades é possível verificar uma armadura utilizada por uma escultura de Ezio.~
+1 0 0 0
+2
+#3
+Rua principal de Firenze~
+Você está na rua principal da cidade, várias pessoas estão na rua realizando seus afazeres, num dos cantos encontram-se guardas que vigiam os comerciantes e as pessoas que passam. O dia encontra-se ensolarado e bonito para se matar pessoas.~
+4 1 0 0
+1
+#4
+Praça de Firenze~
+Você está na praça, existem nela vários bancos e árvores, é possível ver dois portões que levam a locais distintos.~
+5 3 0 6
+4 1
+#5
+Portões da igreja~
+Você está em frente a um portão pesado e frio de metal, atrás dele é possível ver templários e sacerdotes.~
+7 4 0 0
+5 
+#6
+Portões do cemitério~
+Você está em frente a entrada do cemitério, aqui temos vários colegas discançando o sono eterno. Uma entrada de tumba ao norte parece se destacar das demais.~
+8 4 0 0
+6 1
+#7
+Hall da igreja~
+Você está um local amplo e pouco iluminado por apenas algumas velas, um coral canta Suicide Messiah ao lado do altar. Atrás do altar uma parta dourada parece ser de ouro.~
+9 5 0 0
+7
+#8
+Lar de Homulus~
+Você está em frente a uma entrada de tumba, existe uma caveira de bovino pendurada em frete a ela e um burraco de fechadura no meio da porta.~
+0 6 0 0
+8 1
+#9
+Entrada para Biblioteca~
+Você está em frente a uma porta enorme de ouro ela te leva a uma biblioteca pelo que pode ser visto através da abertura.~
+10 7 0 0
+9
+#10
+Biblioteca~
+Você está em uma biblioteca com inúmeras estantes cheias de livros, no centro da sala algo brilha intensamente.~
+0 9 0 0
+9
+$
+
